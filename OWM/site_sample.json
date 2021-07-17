@@ -1,0 +1,1202 @@
+{
+        "Sandersdorf" : {
+                "open_weather_city_id" : 2841879,
+                "lat" : 51.633331,
+                "lon" : 12.26667
+        },
+        "Zwenkau" : {
+                "open_weather_city_id" : 2803588,
+                "lat" : 51.216671,
+                "lon" : 12.31667
+        },
+        "Neu Fahrland" : {
+                "open_weather_city_id" : 2865381,
+                "lat" : 52.450001,
+                "lon" : 13.05
+        },
+        "Powiat kołobrzeski" : {
+                "open_weather_city_id" : 7530843,
+                "lat" : 54.050129,
+                "lon" : 15.61394
+        },
+        "Königsfeld" : {
+                "open_weather_city_id" : 2885884,
+                "lat" : 50.5,
+                "lon" : 7.18333
+        },
+        "Wolkenrasen" : {
+                "open_weather_city_id" : 2900895,
+                "lat" : 50.349998,
+                "lon" : 11.16667
+        },
+        "Graben-Neudorf" : {
+                "open_weather_city_id" : 6555617,
+                "lat" : 49.1703,
+                "lon" : 8.48778
+        },
+        "Zbraslavice" : {
+                "open_weather_city_id" : 3061750,
+                "lat" : 49.81179,
+                "lon" : 15.18319
+        },
+        "Mondsee" : {
+                "open_weather_city_id" : 7872159,
+                "lat" : 47.827148,
+                "lon" : 13.37969
+        },
+        "Plötz" : {
+                "open_weather_city_id" : 2853131,
+                "lat" : 51.633331,
+                "lon" : 11.93333
+        },
+        "Irdning" : {
+                "open_weather_city_id" : 2775197,
+                "lat" : 47.505291,
+                "lon" : 14.10155
+        },
+        "Sosa" : {
+                "open_weather_city_id" : 6548592,
+                "lat" : 50.5,
+                "lon" : 12.6667
+        },
+        "Linden" : {
+                "open_weather_city_id" : 2877441,
+                "lat" : 54.25,
+                "lon" : 9.18333
+        },
+        "Zlín" : {
+                "open_weather_city_id" : 3061370,
+                "lat" : 49.216671,
+                "lon" : 17.66667
+        },
+        "Heilshoop" : {
+                "open_weather_city_id" : 2907486,
+                "lat" : 53.883331,
+                "lon" : 10.53333
+        },
+        "Effeltrich" : {
+                "open_weather_city_id" : 6556780,
+                "lat" : 49.662201,
+                "lon" : 11.0908
+        },
+        "Rettenschöss" : {
+                "open_weather_city_id" : 7873656,
+                "lat" : 47.67086,
+                "lon" : 12.28587
+        },
+        "Eurasburg" : {
+                "open_weather_city_id" : 6557113,
+                "lat" : 48.333302,
+                "lon" : 11.0833
+        },
+        "Podolí" : {
+                "open_weather_city_id" : 3068004,
+                "lat" : 50.349998,
+                "lon" : 14.48333
+        },
+        "Niederbusch" : {
+                "open_weather_city_id" : 2863552,
+                "lat" : 50.966671,
+                "lon" : 6.01667
+        },
+        "Oosterhoogebrug" : {
+                "open_weather_city_id" : 2749451,
+                "lat" : 53.22892,
+                "lon" : 6.60141
+        },
+        "Hemmersheim" : {
+                "open_weather_city_id" : 6556907,
+                "lat" : 49.5667,
+                "lon" : 10.1
+        },
+        "Rauen" : {
+                "open_weather_city_id" : 2850058,
+                "lat" : 52.333328,
+                "lon" : 14.01667
+        },
+        "Laer" : {
+                "open_weather_city_id" : 2881973,
+                "lat" : 52.05555,
+                "lon" : 7.35775
+        },
+        "Ostrov u Macochy" : {
+                "open_weather_city_id" : 3068753,
+                "lat" : 49.382359,
+                "lon" : 16.76268
+        },
+        "Kunice Żarskie" : {
+                "open_weather_city_id" : 3094258,
+                "lat" : 51.599442,
+                "lon" : 15.16495
+        },
+        "Passow" : {
+                "open_weather_city_id" : 2855301,
+                "lat" : 53.14286,
+                "lon" : 14.11417
+        },
+        "Prezelle" : {
+                "open_weather_city_id" : 6552663,
+                "lat" : 52.966702,
+                "lon" : 11.4
+        },
+        "Emlichheim" : {
+                "open_weather_city_id" : 2930546,
+                "lat" : 52.616669,
+                "lon" : 6.85
+        },
+        "Weiding" : {
+                "open_weather_city_id" : 6556645,
+                "lat" : 49.266701,
+                "lon" : 12.7667
+        },
+        "Chwalęcice" : {
+                "open_weather_city_id" : 3101497,
+                "lat" : 52.767609,
+                "lon" : 15.2077
+        },
+        "Bückeburg" : {
+                "open_weather_city_id" : 2942159,
+                "lat" : 52.260651,
+                "lon" : 9.04939
+        },
+        "Krettnich" : {
+                "open_weather_city_id" : 2884313,
+                "lat" : 49.533329,
+                "lon" : 6.93333
+        },
+        "Ragelsdorf" : {
+                "open_weather_city_id" : 2768085,
+                "lat" : 48.240452,
+                "lon" : 15.63595
+        },
+        "Börgermoor" : {
+                "open_weather_city_id" : 2946287,
+                "lat" : 53.004871,
+                "lon" : 7.49268
+        },
+        "Eilenstedt" : {
+                "open_weather_city_id" : 2931864,
+                "lat" : 51.98333,
+                "lon" : 11.03333
+        },
+        "Grub" : {
+                "open_weather_city_id" : 2914661,
+                "lat" : 50.099998,
+                "lon" : 11.93333
+        },
+        "Rheinsberg" : {
+                "open_weather_city_id" : 2847612,
+                "lat" : 53.09972,
+                "lon" : 12.89885
+        },
+        "Wierzchlas" : {
+                "open_weather_city_id" : 3082130,
+                "lat" : 51.204571,
+                "lon" : 18.66543
+        },
+        "Všeruby" : {
+                "open_weather_city_id" : 3062351,
+                "lat" : 49.841671,
+                "lon" : 13.22943
+        },
+        "Stolzenhain" : {
+                "open_weather_city_id" : 2826482,
+                "lat" : 51.433331,
+                "lon" : 13.45
+        },
+        "Czerniejewo" : {
+                "open_weather_city_id" : 3101006,
+                "lat" : 52.426399,
+                "lon" : 17.48925
+        },
+        "Wollbrandshausen" : {
+                "open_weather_city_id" : 2806439,
+                "lat" : 51.583328,
+                "lon" : 10.16667
+        },
+        "Nové Veselí" : {
+                "open_weather_city_id" : 3069422,
+                "lat" : 49.51976,
+                "lon" : 15.90853
+        },
+        "Neuseegefeld" : {
+                "open_weather_city_id" : 2864188,
+                "lat" : 52.566669,
+                "lon" : 13.08333
+        },
+        "Varel" : {
+                "open_weather_city_id" : 2817876,
+                "lat" : 53.396931,
+                "lon" : 8.13602
+        },
+        "Solec Kujawski" : {
+                "open_weather_city_id" : 3085172,
+                "lat" : 53.08371,
+                "lon" : 18.225719
+        },
+        "Spraken" : {
+                "open_weather_city_id" : 2830122,
+                "lat" : 52.883331,
+                "lon" : 9.01667
+        },
+        "Montbronn" : {
+                "open_weather_city_id" : 2992885,
+                "lat" : 48.993919,
+                "lon" : 7.31058
+        },
+        "Baustert" : {
+                "open_weather_city_id" : 2951887,
+                "lat" : 49.978001,
+                "lon" : 6.38984
+        },
+        "Seelitz" : {
+                "open_weather_city_id" : 6548569,
+                "lat" : 51.033298,
+                "lon" : 12.8167
+        },
+        "Waldkirchen an der Thaya" : {
+                "open_weather_city_id" : 2761995,
+                "lat" : 48.933331,
+                "lon" : 15.35
+        },
+        "Hörlkofen" : {
+                "open_weather_city_id" : 3209321,
+                "lat" : 48.243019,
+                "lon" : 11.93725
+        },
+        "Norderney" : {
+                "open_weather_city_id" : 2862041,
+                "lat" : 53.700001,
+                "lon" : 7.15
+        },
+        "Ebersbach-Musbach" : {
+                "open_weather_city_id" : 3209313,
+                "lat" : 47.966671,
+                "lon" : 9.58333
+        },
+        "Lohnsfeld" : {
+                "open_weather_city_id" : 6554963,
+                "lat" : 49.549999,
+                "lon" : 7.85
+        },
+        "Ringsebølle" : {
+                "open_weather_city_id" : 2614771,
+                "lat" : 54.693371,
+                "lon" : 11.41572
+        },
+        "Zeilarn" : {
+                "open_weather_city_id" : 6556572,
+                "lat" : 48.3148,
+                "lon" : 12.8963
+        },
+        "Helgoland" : {
+                "open_weather_city_id" : 6551689,
+                "lat" : 54.166698,
+                "lon" : 7.88333
+        },
+        "Butzow" : {
+                "open_weather_city_id" : 6548252,
+                "lat" : 53.833302,
+                "lon" : 13.65
+        },
+        "Medvedkovo" : {
+                "open_weather_city_id" : 527981,
+                "lat" : 55.866669,
+                "lon" : 37.650002
+        },
+        "Caggiano" : {
+                "open_weather_city_id" : 3181278,
+                "lat" : 40.56781,
+                "lon" : 15.49336
+        },
+        "Nikkilä" : {
+                "open_weather_city_id" : 644671,
+                "lat" : 60.95145,
+                "lon" : 25.66218
+        },
+        "Petro-Slavyanka" : {
+                "open_weather_city_id" : 510139,
+                "lat" : 59.802219,
+                "lon" : 30.506941
+        },
+        "Bize-Minervois" : {
+                "open_weather_city_id" : 3032492,
+                "lat" : 43.316559,
+                "lon" : 2.87134
+        },
+        "Răchitova" : {
+                "open_weather_city_id" : 669360,
+                "lat" : 45.599998,
+                "lon" : 22.75
+        },
+        "Biandronno" : {
+                "open_weather_city_id" : 3182069,
+                "lat" : 45.815079,
+                "lon" : 8.71003
+        },
+        "Safonovskaya" : {
+                "open_weather_city_id" : 499421,
+                "lat" : 60.439911,
+                "lon" : 41.046059
+        },
+        "Beaujeu" : {
+                "open_weather_city_id" : 3034287,
+                "lat" : 46.15176,
+                "lon" : 4.59243
+        },
+        "Giano dell'Umbria" : {
+                "open_weather_city_id" : 3176145,
+                "lat" : 42.833839,
+                "lon" : 12.57777
+        },
+        "Bon-Encontre" : {
+                "open_weather_city_id" : 3031813,
+                "lat" : 44.185181,
+                "lon" : 0.66759
+        },
+        "Vigneux-de-Bretagne" : {
+                "open_weather_city_id" : 2969111,
+                "lat" : 47.32547,
+                "lon" : -1.73678
+        },
+        "Alfondeguilla" : {
+                "open_weather_city_id" : 2522044,
+                "lat" : 39.833328,
+                "lon" : -0.26667
+        },
+        "Castrocalbón" : {
+                "open_weather_city_id" : 3125682,
+                "lat" : 42.19706,
+                "lon" : -5.98226
+        },
+        "Price Town" : {
+                "open_weather_city_id" : 3345279,
+                "lat" : 51.61832,
+                "lon" : -3.53662
+        },
+        "Zsombó" : {
+                "open_weather_city_id" : 3042441,
+                "lat" : 46.325661,
+                "lon" : 19.97464
+        },
+        "Alcocero de Mola" : {
+                "open_weather_city_id" : 3130580,
+                "lat" : 42.472221,
+                "lon" : -3.3579
+        },
+        "Borets" : {
+                "open_weather_city_id" : 572580,
+                "lat" : 53.802502,
+                "lon" : 41.135834
+        },
+        "Grabowo Kościerskie" : {
+                "open_weather_city_id" : 3098453,
+                "lat" : 54.168159,
+                "lon" : 18.146919
+        },
+        "Geras’kin" : {
+                "open_weather_city_id" : 811029,
+                "lat" : 49.375771,
+                "lon" : 40.395088
+        },
+        "Navas de San Antonio" : {
+                "open_weather_city_id" : 3115581,
+                "lat" : 40.760399,
+                "lon" : -4.33052
+        },
+        "Vert-le-Petit" : {
+                "open_weather_city_id" : 6446220,
+                "lat" : 48.549999,
+                "lon" : 2.36667
+        },
+        "Brocēni" : {
+                "open_weather_city_id" : 460786,
+                "lat" : 56.700001,
+                "lon" : 22.533331
+        },
+        "Obshtina Tutrakan" : {
+                "open_weather_city_id" : 726140,
+                "lat" : 44.0,
+                "lon" : 26.6
+        },
+        "Cristot" : {
+                "open_weather_city_id" : 6427176,
+                "lat" : 49.200001,
+                "lon" : -0.58333
+        },
+        "Colby" : {
+                "open_weather_city_id" : 3042251,
+                "lat" : 54.096649,
+                "lon" : -4.70592
+        },
+        "Mędrzechów" : {
+                "open_weather_city_id" : 765030,
+                "lat" : 50.282211,
+                "lon" : 20.947491
+        },
+        "Grazhdanskoye" : {
+                "open_weather_city_id" : 559020,
+                "lat" : 44.23,
+                "lon" : 42.769798
+        },
+        "Yenişarbademli" : {
+                "open_weather_city_id" : 296942,
+                "lat" : 37.707779,
+                "lon" : 31.386391
+        },
+        "Capelle aan den IJssel" : {
+                "open_weather_city_id" : 2758012,
+                "lat" : 51.929169,
+                "lon" : 4.57778
+        },
+        "Istok" : {
+                "open_weather_city_id" : 789996,
+                "lat" : 42.78083,
+                "lon" : 20.487499
+        },
+        "Pontinha" : {
+                "open_weather_city_id" : 2264526,
+                "lat" : 38.767712,
+                "lon" : -9.19935
+        },
+        "Oilgate" : {
+                "open_weather_city_id" : 2962182,
+                "lat" : 52.42667,
+                "lon" : -6.53889
+        },
+        "Stockton-on-Tees" : {
+                "open_weather_city_id" : 2636876,
+                "lat" : 54.568481,
+                "lon" : -1.3187
+        },
+        "Zamostsye" : {
+                "open_weather_city_id" : 619204,
+                "lat" : 53.200001,
+                "lon" : 27.583332
+        },
+        "Vi" : {
+                "open_weather_city_id" : 2663161,
+                "lat" : 62.299999,
+                "lon" : 17.16667
+        },
+        "Mala Tokmachka" : {
+                "open_weather_city_id" : 702153,
+                "lat" : 47.535629,
+                "lon" : 35.892929
+        },
+        "Dokka" : {
+                "open_weather_city_id" : 3159143,
+                "lat" : 60.840012,
+                "lon" : 10.0618
+        },
+        "Husseren-Wesserling" : {
+                "open_weather_city_id" : 3012954,
+                "lat" : 47.882969,
+                "lon" : 6.99388
+        },
+        "Trebukhiv" : {
+                "open_weather_city_id" : 691336,
+                "lat" : 50.484322,
+                "lon" : 30.90304
+        },
+        "Aldeia" : {
+                "open_weather_city_id" : 2743211,
+                "lat" : 40.343891,
+                "lon" : -7.86932
+        },
+        "Malyye Vsegodichi" : {
+                "open_weather_city_id" : 6422507,
+                "lat" : 56.447498,
+                "lon" : 41.349445
+        },
+        "Lanaja" : {
+                "open_weather_city_id" : 3119374,
+                "lat" : 41.77063,
+                "lon" : -0.33096
+        },
+        "Susegana" : {
+                "open_weather_city_id" : 6536651,
+                "lat" : 45.856209,
+                "lon" : 12.25351
+        },
+        "Taberno" : {
+                "open_weather_city_id" : 6355601,
+                "lat" : 37.48069,
+                "lon" : -2.05506
+        },
+        "Khutor Rodniki" : {
+                "open_weather_city_id" : 549022,
+                "lat" : 46.421391,
+                "lon" : 41.451111
+        },
+        "Habay-la-Vieille" : {
+                "open_weather_city_id" : 2796807,
+                "lat" : 49.723289,
+                "lon" : 5.61999
+        },
+        "Tsagan Aman" : {
+                "open_weather_city_id" : 481117,
+                "lat" : 47.5639,
+                "lon" : 46.721802
+        },
+        "Uppsala Kommun" : {
+                "open_weather_city_id" : 2666219,
+                "lat" : 59.866669,
+                "lon" : 17.6
+        },
+        "Eldivan" : {
+                "open_weather_city_id" : 747618,
+                "lat" : 40.529751,
+                "lon" : 33.499039
+        },
+        "Asilah" : {
+                "open_weather_city_id" : 2557055,
+                "lat" : 35.465019,
+                "lon" : -6.0348
+        },
+        "Serrenti" : {
+                "open_weather_city_id" : 2523142,
+                "lat" : 39.493061,
+                "lon" : 8.97889
+        },
+        "Proshutino" : {
+                "open_weather_city_id" : 504675,
+                "lat" : 61.050835,
+                "lon" : 46.469166
+        },
+        "Huntingdon" : {
+                "open_weather_city_id" : 7292911,
+                "lat" : 52.34251,
+                "lon" : -0.18646
+        },
+        "Barberà del Vallès" : {
+                "open_weather_city_id" : 3109804,
+                "lat" : 41.5159,
+                "lon" : 2.12457
+        },
+        "Viagrande" : {
+                "open_weather_city_id" : 2522777,
+                "lat" : 37.60775,
+                "lon" : 15.09659
+        },
+        "Rivne" : {
+                "open_weather_city_id" : 695594,
+                "lat" : 50.623081,
+                "lon" : 26.22743
+        },
+        "Jedwabne" : {
+                "open_weather_city_id" : 7533065,
+                "lat" : 53.294399,
+                "lon" : 22.2952
+        },
+        "Pavlovka" : {
+                "open_weather_city_id" : 512133,
+                "lat" : 53.59568,
+                "lon" : 46.766312
+        },
+        "Esbjerg Kommune" : {
+                "open_weather_city_id" : 6543925,
+                "lat" : 55.468929,
+                "lon" : 8.46222
+        },
+        "Krasnodar" : {
+                "open_weather_city_id" : 542420,
+                "lat" : 45.03278,
+                "lon" : 38.976944
+        },
+        "Mariestad" : {
+                "open_weather_city_id" : 2692613,
+                "lat" : 58.709709,
+                "lon" : 13.82367
+        },
+        "Pythagóreio" : {
+                "open_weather_city_id" : 255163,
+                "lat" : 37.69194,
+                "lon" : 26.94833
+        },
+        "Provincia de Pontevedra" : {
+                "open_weather_city_id" : 3113208,
+                "lat" : 42.5,
+                "lon" : -8.5
+        },
+        "Nättraby" : {
+                "open_weather_city_id" : 2690061,
+                "lat" : 56.200001,
+                "lon" : 15.51667
+        },
+        "Pärnu linn" : {
+                "open_weather_city_id" : 862993,
+                "lat" : 58.379009,
+                "lon" : 24.52784
+        },
+        "Măceşu de Jos" : {
+                "open_weather_city_id" : 674237,
+                "lat" : 43.883331,
+                "lon" : 23.716669
+        },
+        "Villefranche-sur-Mer" : {
+                "open_weather_city_id" : 2968749,
+                "lat" : 43.7047,
+                "lon" : 7.30776
+        },
+        "Vanse" : {
+                "open_weather_city_id" : 3132720,
+                "lat" : 58.116669,
+                "lon" : 6.7
+        },
+        "Beltiug" : {
+                "open_weather_city_id" : 685121,
+                "lat" : 47.549999,
+                "lon" : 22.85
+        },
+        "Skalánion" : {
+                "open_weather_city_id" : 253717,
+                "lat" : 35.282619,
+                "lon" : 25.18684
+        },
+        "Ylitornio" : {
+                "open_weather_city_id" : 630780,
+                "lat" : 66.41467,
+                "lon" : 24.30554
+        },
+        "Langbank" : {
+                "open_weather_city_id" : 2644949,
+                "lat" : 55.923641,
+                "lon" : -4.59261
+        },
+        "Çanakkale" : {
+                "open_weather_city_id" : 749780,
+                "lat" : 40.145561,
+                "lon" : 26.406389
+        },
+        "Oberdorf im Burgenland" : {
+                "open_weather_city_id" : 2770269,
+                "lat" : 47.216671,
+                "lon" : 16.216669
+        },
+        "Dimos Kallithea" : {
+                "open_weather_city_id" : 8133880,
+                "lat" : 37.952129,
+                "lon" : 23.699961
+        },
+        "Hlukhiv" : {
+                "open_weather_city_id" : 707758,
+                "lat" : 51.678219,
+                "lon" : 33.916199
+        },
+        "Krasnogvardeyskoye" : {
+                "open_weather_city_id" : 704381,
+                "lat" : 45.501621,
+                "lon" : 34.30024
+        },
+        "Auchy-lès-Hesdin" : {
+                "open_weather_city_id" : 3036271,
+                "lat" : 50.401138,
+                "lon" : 2.10145
+        },
+        "Maksatikha" : {
+                "open_weather_city_id" : 531979,
+                "lat" : 57.796951,
+                "lon" : 35.882542
+        },
+        "Ardeoani" : {
+                "open_weather_city_id" : 686212,
+                "lat" : 46.533329,
+                "lon" : 26.6
+        },
+        "Sierra de Yeguas" : {
+                "open_weather_city_id" : 6359492,
+                "lat" : 37.16169,
+                "lon" : -4.86548
+        },
+        "Rechytsa" : {
+                "open_weather_city_id" : 622794,
+                "lat" : 52.361698,
+                "lon" : 30.3916
+        },
+        "Grubine" : {
+                "open_weather_city_id" : 3284794,
+                "lat" : 43.422779,
+                "lon" : 17.149719
+        },
+        "Sutysky" : {
+                "open_weather_city_id" : 692146,
+                "lat" : 49.04245,
+                "lon" : 28.41732
+        },
+        "Merad" : {
+                "open_weather_city_id" : 2488058,
+                "lat" : 36.47477,
+                "lon" : 2.42624
+        },
+        "Kyperoúnta" : {
+                "open_weather_city_id" : 146414,
+                "lat" : 34.9375,
+                "lon" : 32.974998
+        },
+        "Kurnalovo" : {
+                "open_weather_city_id" : 6459611,
+                "lat" : 41.466671,
+                "lon" : 23.216669
+        },
+        "Urzhum" : {
+                "open_weather_city_id" : 478532,
+                "lat" : 57.11412,
+                "lon" : 49.999561
+        },
+        "Collemeto" : {
+                "open_weather_city_id" : 3178370,
+                "lat" : 40.200001,
+                "lon" : 18.1
+        },
+        "Slobozia" : {
+                "open_weather_city_id" : 617381,
+                "lat" : 46.728062,
+                "lon" : 29.707781
+        },
+        "Megáli Khóra" : {
+                "open_weather_city_id" : 257434,
+                "lat" : 38.633331,
+                "lon" : 21.366671
+        },
+        "Kropyvnytskyi" : {
+                "open_weather_city_id" : 705812,
+                "lat" : 48.513199,
+                "lon" : 32.259701
+        },
+        "Simav" : {
+                "open_weather_city_id" : 300791,
+                "lat" : 39.0882,
+                "lon" : 28.977671
+        },
+        "Røst" : {
+                "open_weather_city_id" : 3141198,
+                "lat" : 67.517273,
+                "lon" : 12.11564
+        },
+        "Ajaccio" : {
+                "open_weather_city_id" : 6452235,
+                "lat" : 41.916672,
+                "lon" : 8.73333
+        },
+        "Luvia" : {
+                "open_weather_city_id" : 647260,
+                "lat" : 61.36375,
+                "lon" : 21.62556
+        },
+        "Davydovka" : {
+                "open_weather_city_id" : 566969,
+                "lat" : 51.15781,
+                "lon" : 39.42915
+        },
+        "Carpineti" : {
+                "open_weather_city_id" : 3180433,
+                "lat" : 44.455959,
+                "lon" : 10.51969
+        },
+        "Rautavaara" : {
+                "open_weather_city_id" : 639701,
+                "lat" : 63.48886,
+                "lon" : 28.40176
+        },
+        "Oran" : {
+                "open_weather_city_id" : 2485920,
+                "lat" : 35.666672,
+                "lon" : -0.5
+        },
+        "Jendouba" : {
+                "open_weather_city_id" : 2470088,
+                "lat" : 36.501141,
+                "lon" : 8.78024
+        },
+        "Petrosino" : {
+                "open_weather_city_id" : 6541959,
+                "lat" : 37.707741,
+                "lon" : 12.49993
+        },
+        "Beldyagino" : {
+                "open_weather_city_id" : 817542,
+                "lat" : 54.806938,
+                "lon" : 35.068611
+        },
+        "Orellana la Vieja" : {
+                "open_weather_city_id" : 2513084,
+                "lat" : 39.006168,
+                "lon" : -5.53441
+        },
+        "Porreres" : {
+                "open_weather_city_id" : 6533964,
+                "lat" : 39.51358,
+                "lon" : 3.02021
+        },
+        "Yumurtalik" : {
+                "open_weather_city_id" : 296138,
+                "lat" : 36.76667,
+                "lon" : 35.783329
+        },
+        "Zabolotiv" : {
+                "open_weather_city_id" : 687965,
+                "lat" : 48.470539,
+                "lon" : 25.285709
+        },
+        "Lynge" : {
+                "open_weather_city_id" : 2617220,
+                "lat" : 55.839409,
+                "lon" : 12.27725
+        },
+        "St Ives" : {
+                "open_weather_city_id" : 2638778,
+                "lat" : 50.208611,
+                "lon" : -5.4875
+        },
+        "Khlyabishino" : {
+                "open_weather_city_id" : 550082,
+                "lat" : 58.116669,
+                "lon" : 44.299999
+        },
+        "Støren" : {
+                "open_weather_city_id" : 7626379,
+                "lat" : 63.039101,
+                "lon" : 10.28501
+        },
+        "Plesetsk" : {
+                "open_weather_city_id" : 509026,
+                "lat" : 62.708038,
+                "lon" : 40.291592
+        },
+        "Opochka" : {
+                "open_weather_city_id" : 515155,
+                "lat" : 56.71048,
+                "lon" : 28.661739
+        },
+        "Høyanger" : {
+                "open_weather_city_id" : 3151574,
+                "lat" : 61.22036,
+                "lon" : 6.07494
+        },
+        "Zemo Khevi" : {
+                "open_weather_city_id" : 874575,
+                "lat" : 43.241669,
+                "lon" : 40.320278
+        },
+        "Il’yevka" : {
+                "open_weather_city_id" : 556913,
+                "lat" : 48.647499,
+                "lon" : 43.622501
+        },
+        "Skokovi" : {
+                "open_weather_city_id" : 3278045,
+                "lat" : 45.031391,
+                "lon" : 15.91444
+        },
+        "Il’icha" : {
+                "open_weather_city_id" : 6725459,
+                "lat" : 50.302448,
+                "lon" : 36.171322
+        },
+        "Dun-le-Palestel" : {
+                "open_weather_city_id" : 3020681,
+                "lat" : 46.299999,
+                "lon" : 1.66667
+        },
+        "Bol’shoy Melik" : {
+                "open_weather_city_id" : 572984,
+                "lat" : 51.627781,
+                "lon" : 43.301659
+        },
+        "Convoy" : {
+                "open_weather_city_id" : 2965226,
+                "lat" : 54.860828,
+                "lon" : -7.66556
+        },
+        "Sandgerði" : {
+                "open_weather_city_id" : 3413727,
+                "lat" : 64.036613,
+                "lon" : -22.7066
+        },
+        "Boliqueime" : {
+                "open_weather_city_id" : 8012005,
+                "lat" : 37.149151,
+                "lon" : -8.14826
+        },
+        "Al Qubbah" : {
+                "open_weather_city_id" : 88835,
+                "lat" : 32.76162,
+                "lon" : 22.242371
+        },
+        "Wilaya de Naama" : {
+                "open_weather_city_id" : 2486512,
+                "lat" : 33.5,
+                "lon" : -0.83333
+        },
+        "Douz" : {
+                "open_weather_city_id" : 2471287,
+                "lat" : 33.46632,
+                "lon" : 9.0203
+        },
+        "Le Drennec" : {
+                "open_weather_city_id" : 3004321,
+                "lat" : 48.534752,
+                "lon" : -4.37008
+        },
+        "Öja" : {
+                "open_weather_city_id" : 643991,
+                "lat" : 63.83135,
+                "lon" : 22.90017
+        },
+        "İncesu" : {
+                "open_weather_city_id" : 311358,
+                "lat" : 38.622398,
+                "lon" : 35.18261
+        },
+        "Powiat gostyniński" : {
+                "open_weather_city_id" : 7530928,
+                "lat" : 52.389881,
+                "lon" : 19.62187
+        },
+        "Bol’she-Dobraya" : {
+                "open_weather_city_id" : 574414,
+                "lat" : 54.566666,
+                "lon" : 31.416668
+        },
+        "Soulac-sur-Mer" : {
+                "open_weather_city_id" : 2974056,
+                "lat" : 45.510681,
+                "lon" : -1.12524
+        },
+        "Västerbottens län" : {
+                "open_weather_city_id" : 2664415,
+                "lat" : 65.0,
+                "lon" : 17.5
+        },
+        "Guemar" : {
+                "open_weather_city_id" : 2495601,
+                "lat" : 33.480572,
+                "lon" : 6.8071
+        },
+        "Stavern" : {
+                "open_weather_city_id" : 3137091,
+                "lat" : 59.0,
+                "lon" : 10.03333
+        },
+        "Borçka" : {
+                "open_weather_city_id" : 750496,
+                "lat" : 41.363152,
+                "lon" : 41.676521
+        },
+        "BABOR - VILLE" : {
+                "open_weather_city_id" : 6698360,
+                "lat" : 36.489941,
+                "lon" : 5.5393
+        },
+        "Ózd" : {
+                "open_weather_city_id" : 716671,
+                "lat" : 48.216671,
+                "lon" : 20.299999
+        },
+        "Orël" : {
+                "open_weather_city_id" : 515012,
+                "lat" : 52.965832,
+                "lon" : 36.080276
+        },
+        "Socuéllamos" : {
+                "open_weather_city_id" : 2510852,
+                "lat" : 39.285809,
+                "lon" : -2.79206
+        },
+        "Esenyurt" : {
+                "open_weather_city_id" : 747323,
+                "lat" : 41.033329,
+                "lon" : 28.67528
+        },
+        "El Golea" : {
+                "open_weather_city_id" : 2498305,
+                "lat" : 30.566669,
+                "lon" : 2.88333
+        },
+        "Tripoli" : {
+                "open_weather_city_id" : 2210247,
+                "lat" : 32.875191,
+                "lon" : 13.18746
+        },
+        "Tvøroyri" : {
+                "open_weather_city_id" : 2611060,
+                "lat" : 61.555569,
+                "lon" : -6.81109
+        },
+        "Bou Beker" : {
+                "open_weather_city_id" : 2555086,
+                "lat" : 33.35894,
+                "lon" : -4.75505
+        },
+        "Göcek" : {
+                "open_weather_city_id" : 306859,
+                "lat" : 36.758179,
+                "lon" : 28.92816
+        },
+        "Raznezh’ye" : {
+                "open_weather_city_id" : 502408,
+                "lat" : 56.183613,
+                "lon" : 45.677502
+        },
+        "Findochty" : {
+                "open_weather_city_id" : 2649433,
+                "lat" : 57.69735,
+                "lon" : -2.90104
+        },
+        "Verkhne-Derevyannoye" : {
+                "open_weather_city_id" : 475617,
+                "lat" : 61.616669,
+                "lon" : 34.616669
+        },
+        "Bolgar" : {
+                "open_weather_city_id" : 570990,
+                "lat" : 54.950001,
+                "lon" : 49.066669
+        },
+        "Olderdalen" : {
+                "open_weather_city_id" : 778346,
+                "lat" : 69.604073,
+                "lon" : 20.532721
+        },
+        "Inari" : {
+                "open_weather_city_id" : 656659,
+                "lat" : 69.0,
+                "lon" : 27.0
+        },
+        "Monchegorsk" : {
+                "open_weather_city_id" : 525404,
+                "lat" : 67.93972,
+                "lon" : 32.87389
+        },
+        "Nakhoy" : {
+                "open_weather_city_id" : 523536,
+                "lat" : 51.283333,
+                "lon" : 46.783333
+        },
+        "Beaufort House" : {
+                "open_weather_city_id" : 2966271,
+                "lat" : 52.066669,
+                "lon" : -9.63333
+        },
+        "Skigersta" : {
+                "open_weather_city_id" : 2637764,
+                "lat" : 58.473412,
+                "lon" : -6.21135
+        },
+        "Bezdonys" : {
+                "open_weather_city_id" : 600480,
+                "lat" : 54.799999,
+                "lon" : 25.533331
+        },
+        "Vibble" : {
+                "open_weather_city_id" : 2663254,
+                "lat" : 57.599998,
+                "lon" : 18.25
+        },
+        "Rørvik" : {
+                "open_weather_city_id" : 3141310,
+                "lat" : 64.862083,
+                "lon" : 11.23734
+        },
+        "Berlevåg" : {
+                "open_weather_city_id" : 780686,
+                "lat" : 70.858093,
+                "lon" : 29.0853
+        },
+        "Pin’gosalma" : {
+                "open_weather_city_id" : 509467,
+                "lat" : 65.933334,
+                "lon" : 32.583332
+        },
+        "Ruskeala" : {
+                "open_weather_city_id" : 500502,
+                "lat" : 61.933331,
+                "lon" : 30.58333
+        },
+        "Vakfıkebir" : {
+                "open_weather_city_id" : 738228,
+                "lat" : 41.04583,
+                "lon" : 39.27639
+        },
+        "Salıpazarı" : {
+                "open_weather_city_id" : 7700531,
+                "lat" : 41.083981,
+                "lon" : 36.830399
+        },
+        "Imdina" : {
+                "open_weather_city_id" : 2562746,
+                "lat" : 35.88694,
+                "lon" : 14.4025
+        },
+        "Waddān" : {
+                "open_weather_city_id" : 2209055,
+                "lat" : 29.1614,
+                "lon" : 16.13904
+        },
+        "Maliq" : {
+                "open_weather_city_id" : 782393,
+                "lat" : 40.70583,
+                "lon" : 20.69972
+        },
+        "Razdel" : {
+                "open_weather_city_id" : 6461350,
+                "lat" : 42.083328,
+                "lon" : 26.65
+        },
+        "Baskil" : {
+                "open_weather_city_id" : 321929,
+                "lat" : 38.567909,
+                "lon" : 38.823818
+        },
+        "Lysaya Gora" : {
+                "open_weather_city_id" : 532731,
+                "lat" : 54.4907,
+                "lon" : 44.020401
+        },
+        "Kresttsy" : {
+                "open_weather_city_id" : 541116,
+                "lat" : 58.245201,
+                "lon" : 32.516479
+        },
+        "Kozjak" : {
+                "open_weather_city_id" : 3197451,
+                "lat" : 44.58667,
+                "lon" : 19.28417
+        },
+        "Pozhara" : {
+                "open_weather_city_id" : 505707,
+                "lat" : 59.954411,
+                "lon" : 36.097252
+        },
+        "Ajdabiya" : {
+                "open_weather_city_id" : 89113,
+                "lat" : 30.755449,
+                "lon" : 20.226259
+        },
+        "Pokrovskoye" : {
+                "open_weather_city_id" : 507427,
+                "lat" : 47.415699,
+                "lon" : 38.89706
+        },
+        "Laghouat" : {
+                "open_weather_city_id" : 2491191,
+                "lat" : 33.799999,
+                "lon" : 2.86514
+        },
+        "Sandwick" : {
+                "open_weather_city_id" : 2638534,
+                "lat" : 60.0,
+                "lon" : -1.25
+        },
+        "Dalvík" : {
+                "open_weather_city_id" : 2632287,
+                "lat" : 65.970177,
+                "lon" : -18.52861
+        },
+        "Poshekhon’ye" : {
+                "open_weather_city_id" : 506029,
+                "lat" : 58.499279,
+                "lon" : 39.135311
+        }
+}
