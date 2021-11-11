@@ -29,8 +29,6 @@ Later I will write the other stuff and do the data analysis.
 
 
 
-######
-
-<locate_sites_in_map.py> plots all sites of the weather observation points on a map
+*locate_sites_in_map.py* plots all sites of the weather observation points on a map
 
 
